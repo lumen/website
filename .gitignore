@@ -24,3 +24,5 @@ lumen_website-*.tar
 
 # The default directory which Serum builds the website into.
 /site/
+
+.DS_Store
